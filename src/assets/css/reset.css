@@ -1,0 +1,32 @@
+
+@charset "utf-8";
+body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, dialog, figure, footer, header, hgroup, nav, section{
+    margin:0;
+    padding: 0;
+}
+h1,h2,h3,h4,h5,h6{
+    font-size: 16px;
+    font-weight: normal;
+}
+ul,li,ol{
+    list-style: none;
+}
+a,u{
+    text-decoration: none;
+    outline: 0;
+    color: black;
+}
+b,strong{
+    font-weight: normal;
+}
+em,i{
+    font-style: normal;
+}
+img{
+    /* display: block; */
+    border: 0;
+    vertical-align: middle;
+}
+input{
+    outline: none;
+}
